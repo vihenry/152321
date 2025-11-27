@@ -1,0 +1,5 @@
+{
+  "name": "Zen Gomoku",
+  "description": "A serverless, P2P Five-in-a-Row game with offline hotseat and online multiplayer modes.",
+  "requestFramePermissions": []
+}
